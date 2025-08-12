@@ -41,7 +41,7 @@ $tagline = "Baking Happiness, One Slice at a Time!";
       font-weight: bold;
     }
     .hero {
-      background: url('cake-banner.jpg') no-repeat center center;
+      background: url('https://th.bing.com/th/id/R.c2b22ebbbd1c11e9ed52b266b640cfa3?rik=NIVW90KUeDKj4Q&riu=http%3a%2f%2fwww.cuisineetsentiments.com%2fimages%2fcake_5.jpg&ehk=M84OKLo%2bIBkwndaMmJu%2fMXqBrE4zu815Hd5zN3JjHBc%3d&risl=&pid=ImgRaw&r=0') no-repeat center center;
       background-size: cover;
       height: 300px;
       display: flex;
